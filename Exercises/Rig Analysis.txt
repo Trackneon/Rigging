@@ -1,0 +1,8 @@
+Hip sockets detached from model
+Hip piece not constrained
+Hip and Torso controls control the same control groups
+Joints not hidden
+Right hand not constrained correctly
+Missing COG/Transform controls
+Most of the controls work as expected. Mostly the hip and spine joints that need some fixing. 
+Had to animate hip geo separately since it was not constrained

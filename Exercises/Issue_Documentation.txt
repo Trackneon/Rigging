@@ -1,0 +1,13 @@
+
+Notes for Tyrell's Rig:
+Instead of having Y forward and Z as the pivot, you put Z as forward and Y as pivot
+The hands follow the same orientation as the arm which is not right. 
+The hand rig was disorganized in the hiearchy - Fixed (Tyrell had had the Thumb base joint as the parent for the entire hand for the controls. The Joints were in the heiarchy corretly though which was a blessing)
+The Hip Joints were out of the socket and disconnected from the mesh
+The middle section was not skined and the hip and spine joints were badly placed (Hip was alright but the spine was in the middle of the robot and not by the accordian section)
+The clavical joint was not constrained to anything and there was no control
+The Axis for the head control was skewed to the Robot's right side
+Geo layer was on a reference layer which was good (I should have done that)
+The Mesh for the torso had not been seperated to include potential functionality for the cavical joints
+
+
